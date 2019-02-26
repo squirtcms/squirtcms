@@ -1,1 +1,1 @@
-image: gitpod/workspace-dotnet:latest
+image: "gitpod/workspace-dotnet"
